@@ -1,3 +1,10 @@
+#######################################################################
+# Copyright (C)                                                       #
+# 2019 Mhttx(mhttxgm@gmail.com)                                       #
+# Permission given to modify the code as long as you keep this        #
+# declaration at the top                                              #
+#######################################################################
+
 import numpy as np 
 from pprint import pprint
 from tqdm import tqdm
